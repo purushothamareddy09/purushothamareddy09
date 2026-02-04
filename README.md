@@ -22,13 +22,6 @@ Strong expertise in platform reliability, infrastructure automation, observabili
 at enterprise scale.
 </p>
 
-<ul>
-  <li>Kubernetes operations, autoscaling, and service mesh at scale</li>
-  <li>Infrastructure as Code using Terraform, Ansible, and Helm</li>
-  <li>Production incident handling, RCA, and SRE best practices</li>
-  <li>Security-first engineering (IAM, RBAC, CIS, ISO 27001)</li>
-</ul>
-
 <hr/>
 
 <h2>📜 Certifications</h2>
