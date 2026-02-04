@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, This is Puru</h1>
+<h1 align="center">Hey👋, This is PR</h1>
 <h3 align="center">Senior SRE / DevOps / Platform Engineer | CKA</h3>
 
 <p align="center">
