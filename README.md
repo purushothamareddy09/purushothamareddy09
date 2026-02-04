@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purushothama Reddy</h1>
+<h1 align="center">Hey Bruh 👋, This is Purushothama Reddy</h1>
 <h3 align="center">Senior SRE / DevOps / Platform Engineer | CKA</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/apsreddy">LinkedIn</a>
-  <a href="mailto:apsreddy1074@gmail.com">Email</a>
-</p>
 
 <p align="center">
   Building reliable, scalable, and secure cloud-native platforms across on-prem and cloud environments.
