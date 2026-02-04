@@ -82,6 +82,9 @@ at enterprise scale.
 
 <h2>🚀 Key Projects & Impact</h2>
 
+<details>
+  <summary>Click to expand</summary>
+
 <ul>
   <li><b>High Availability at Scale</b> — Build and Operated 10+ Kubernetes clusters supporting mission-critical services</li>
   <li><b>Reduced MTTR</b> — Automated incident response and troubleshooting workflows</li>
@@ -90,6 +93,8 @@ at enterprise scale.
   <li><b>Infra Presales & Consulting</b> — Worked as an Infrastructure Presales Consultant, delivered RFI/RFP responses, and led multiple POCs for client acquisition</li>
   <li><b>Offshore Operations Center Setup</b> — Successfully set up an Offshore Operations Center (OC) in Hyderabad and managed transition of operations to offshore delivery</li>
 </ul>
+
+</details>
 
 <hr/>
 
