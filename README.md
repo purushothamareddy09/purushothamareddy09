@@ -13,15 +13,7 @@
 
 <hr/>
 
-<h2>📜 Certifications</h2>
-<ul>
-  <li>Certified Kubernetes Administrator (CKA)</li>
-  <li>AWS Certified Cloud Practitioner</li>
-  <li>Confluent Certified Data Streaming Engineer</li>
-  <li>Scaling Cloud Native Applications with KEDA – Linux Foundation</li>
-</ul>
 
-<hr/>
 
 <h2>👨‍💻 About Me</h2>
 <p>
@@ -36,6 +28,16 @@ at enterprise scale.
   <li>Infrastructure as Code using Terraform, Ansible, and Helm</li>
   <li>Production incident handling, RCA, and SRE best practices</li>
   <li>Security-first engineering (IAM, RBAC, CIS, ISO 27001)</li>
+</ul>
+
+<hr/>
+
+<h2>📜 Certifications</h2>
+<ul>
+  <li>Certified Kubernetes Administrator (CKA)</li>
+  <li>AWS Certified Cloud Practitioner</li>
+  <li>Confluent Certified Data Streaming Engineer</li>
+  <li>Scaling Cloud Native Applications with KEDA – Linux Foundation</li>
 </ul>
 
 <hr/>
