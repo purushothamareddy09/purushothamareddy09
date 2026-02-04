@@ -89,36 +89,6 @@ at enterprise scale.
 
 <hr/>
 
-<h2>🏢 Professional Experience</h2>
-
-<h3>ThoughtWorks — Senior Infrastructure Consultant</h3>
-<p><i>Hyderabad | June 2025 – Present</i></p>
-<p><b>Project:</b>Insurance project</p>
-
-<ul>
-  <li>Built and operated <b>Confluent Kafka</b> platform on Kubernetes using Helm and Ansible (AWX)</li>
-  <li>Provisioned AWS infrastructure using <b>Terraform</b> (EKS, PostgreSQL, DocumentDB)</li>
-  <li>Implemented <b>HPA, VPA, and KEDA</b> for autoscaling workloads</li>
-  <li>Developed CI/CD pipelines using GitHub Actions and Jenkins</li>
-  <li>Improved observability with Grafana Alloy, ELK, Datadog, and CloudWatch</li>
-  <li>Handled production incidents, CAB processes, and RCA documentation</li>
-</ul>
-
-<h3>Qvantel Software Solutions — Senior Systems Specialist / DevOps Engineer</h3>
-<p><i>Hyderabad | Mar 2019 – May 2025</i></p>
-<p><b>Clients:</b> WindTre, Millicom, XL Axiata</p>
-
-<ul>
-  <li>Promoted from L2 Support Engineer → DevOps Engineer → Senior Systems Specialist</li>
-  <li>Led Kubernetes and OpsGenie POCs for telecom platforms</li>
-  <li>Automated deployments using Ansible and shell scripting</li>
-  <li>Managed large-scale Linux estates and virtualization platforms (VMware, KVM)</li>
-  <li>Executed major upgrades (Docker, ELK, Log4j remediation)</li>
-  <li>Acted as SPOC and L2/L3 escalation for critical incidents</li>
-</ul>
-
-<hr/>
-
 <h2>🚀 Key Projects & Impact</h2>
 
 <ul>
