@@ -1,15 +1,3 @@
-<!-- Profile badge -->
-<p align="center">
-  <a href="https://github.com/purushothamareddy09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Purushothama+Reddy;Senior+SRE+%2F+DevOps+Engineer+%7C+CKA" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Quick summary -->
-<p align="center">
-  <b>Cloud-Native | Kubernetes | Platform Engineering | SRE | DevOps</b>
-</p>
-
 <h1 align="center">Hi 👋, I'm Purushothama Reddy</h1>
 <h3 align="center">Senior SRE / DevOps / Platform Engineer | CKA</h3>
 
@@ -22,6 +10,16 @@
 <p align="center">
   Building reliable, scalable, and secure cloud-native platforms across on-prem and cloud environments.
 </p>
+
+<hr/>
+
+<h2>📜 Certifications</h2>
+<ul>
+  <li>Certified Kubernetes Administrator (CKA)</li>
+  <li>AWS Certified Cloud Practitioner</li>
+  <li>Confluent Certified Data Streaming Engineer</li>
+  <li>Scaling Cloud Native Applications with KEDA – Linux Foundation</li>
+</ul>
 
 <hr/>
 
@@ -84,8 +82,37 @@ at enterprise scale.
   <!-- Networking & Security -->
   <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma%20Cloud-412991?style=for-the-badge" />
 </p>
+
+<hr/>
+
+<h2>🏢 Professional Experience</h2>
+
+<h3>ThoughtWorks — Senior Infrastructure Consultant</h3>
+<p><i>Hyderabad | June 2025 – Present</i></p>
+<p><b>Project:</b>Insurance project</p>
+
+<ul>
+  <li>Built and operated <b>Confluent Kafka</b> platform on Kubernetes using Helm and Ansible (AWX)</li>
+  <li>Provisioned AWS infrastructure using <b>Terraform</b> (EKS, PostgreSQL, DocumentDB)</li>
+  <li>Implemented <b>HPA, VPA, and KEDA</b> for autoscaling workloads</li>
+  <li>Developed CI/CD pipelines using GitHub Actions and Jenkins</li>
+  <li>Improved observability with Grafana Alloy, ELK, Datadog, and CloudWatch</li>
+  <li>Handled production incidents, CAB processes, and RCA documentation</li>
+</ul>
+
+<h3>Qvantel Software Solutions — Senior Systems Specialist / DevOps Engineer</h3>
+<p><i>Hyderabad | Mar 2019 – May 2025</i></p>
+<p><b>Clients:</b> WindTre, Millicom, XL Axiata</p>
+
+<ul>
+  <li>Promoted from L2 Support Engineer → DevOps Engineer → Senior Systems Specialist</li>
+  <li>Led Kubernetes and OpsGenie POCs for telecom platforms</li>
+  <li>Automated deployments using Ansible and shell scripting</li>
+  <li>Managed large-scale Linux estates and virtualization platforms (VMware, KVM)</li>
+  <li>Executed major upgrades (Docker, ELK, Log4j remediation)</li>
+  <li>Acted as SPOC and L2/L3 escalation for critical incidents</li>
+</ul>
 
 <hr/>
 
@@ -108,36 +135,3 @@ at enterprise scale.
 </ul>
 
 <hr/>
-
-<h2>📜 Certifications</h2>
-<ul>
-  <li>Certified Kubernetes Administrator (CKA)</li>
-  <li>AWS Certified Cloud Practitioner</li>
-  <li>Confluent Certified Data Streaming Engineer</li>
-  <li>Scaling Cloud Native Applications with KEDA – Linux Foundation</li>
-</ul>
-
-<hr/>
-
-<h2>📫 Connect</h2>
-<p>
-📧 <a href="mailto:ankireddypalli74@gmail.com">ankireddypalli74@gmail.com</a><br/>
-💼 <a href="https://www.linkedin.com/in/apsreddy">LinkedIn</a>
-</p>
-
-<!-- Add contact icons -->
-<p align="center">
-  <a href="mailto:ankireddypalli74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/apsreddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/purushothamareddy09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<!-- Add GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purushothamareddy09&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purushothamareddy09&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=purushothamareddy09&style=flat&color=brightgreen" />
-</p>
