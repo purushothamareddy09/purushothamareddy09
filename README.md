@@ -17,6 +17,9 @@ Strong expertise in platform reliability, infrastructure automation, observabili
 at enterprise scale.
 </p>
 
+<details>
+  <summary>Click to expand</summary>
+
 <hr/>
 
 <h2>📜 Certifications</h2>
@@ -100,3 +103,4 @@ at enterprise scale.
 </ul>
 
 <hr/>
+</details>
